@@ -1,0 +1,12 @@
+{
+  "name": "Harpija Jaguar Token",
+  "symbol": "HTO",
+  "decimals": 18,
+  "chainId": 137,
+  "address": "0x41bfA0675Ed1dF3b1f36B4b54366d0dE1F087942",
+  "totalSupply": "31000000",
+  "logoURI": "https://raw.githubusercontent.com/og3236/hto_token-polygon/main/logo.png",
+  "website": "https://og3236.github.io",
+  "explorer": "https://polygonscan.com/token/0x41bfA0675Ed1dF3b1f36B4b54366d0dE1F087942",
+  "contact": "kuroimori@proton.me"
+}
