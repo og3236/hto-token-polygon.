@@ -14,5 +14,5 @@ Ativo digital principal do ecossistema **Kuroi Mori (黒い森 — Floresta Negr
 - **Portal Oficial:** https://og3236.github.io
 - **Harpija Pay (Web3 App):** https://og3236.github.io/app.html
 - **PolygonScan:** https://polygonscan.com/token/0x41bfA0675Ed1dF3b1f36B4b54366d0dE1F087942
-- **Uniswap V4:** https://app.uniswap.org/swp?chain=polygon&outputCurrency=0x41bfA0675Ed1dF3b1f36B4b54366d0dE1F087942
+- **Uniswap V4:** https://app.uniswap.org/swap?chain=polygon&outputCurrency=0x41bfA0675Ed1dF3b1f36B4b54366d0dE1F087942
 - **Contato:** kuroimori@proton.me
